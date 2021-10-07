@@ -4,7 +4,7 @@
 
 
 | Se connecter      |     S'inscrire   | 
-| ------------- |: -------------: | 
+| ------------- :| -------------: | 
 | Opt° de connexion     |        Titre        |    
 | - mail + mdp       |        - mail+mdp        |     
 | --> Inscription     |        --> s'inscrire        |     
