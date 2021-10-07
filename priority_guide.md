@@ -52,4 +52,54 @@ Si oui,
 5. Date de capture
 6. Sexe/Age
 7. N° de bague
+8. bouton plus d'info
 
+### Encyclopédie
+
+1. Titre
+2. Barre de recherche
+3. Prévisualisation img avec nom d'oiseaux
+
+### Page d'un oiseau encyclopédie
+
+1. Nom de l'oiseau
+2. Nom latin
+3. Photo
+4. carte de la distribution btn 
+5. Description de l'oiseau
+6. Possibilité d'écouter le chant
+
+### Mes favoris 
+
+1. oiseau vedette
+
+2. Oiseau récent
+
+### Profils utilisateurs
+
+1. Nom
+2. abonnement/ abonnés 
+3. Région de prédilection 
+4. Nombre total de capture
+5. Capture 
+
+### Compte
+
+1. Mon compte / possibilité de le modifier 
+2. Nom et prénom 
+3. Mdp
+4. Id de l'institut des sciences
+5. btn se deconnecter/ supp. le compte (ecran: êtes-vous sur?)
+
+### Modifier le compte
+
+1. nom/ prénom
+2. adresse mail
+3. Mots de passe
+4. Confirmer le mots de passe 
+5. BTN Confirmer 
+
+### Supprimer
+
+1. Vous venez de supprimer votre compte de manière définitive.
+2. Voulez-vous 
